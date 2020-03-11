@@ -1,0 +1,44 @@
+html{
+  font-family: 'Roboto Slab';
+  color: #7f78d2;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #481380;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #ffe2ff;
+  text-align: center;
+}
+
+.dice-container{
+  background-color: transparent;
+  border: none;
+}
